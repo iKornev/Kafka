@@ -44,8 +44,13 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
+## Kafka setup
 
-## Kafka setup 
+```bash
 
+# kafka setup
 $ follow the instruction here https://kafka.apache.org/quickstart
+
+```
+
 
